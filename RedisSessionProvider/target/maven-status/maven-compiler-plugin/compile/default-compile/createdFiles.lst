@@ -1,0 +1,5 @@
+com/framework/session/redis/key/RedisKeysManager.class
+com/framework/session/redis/code/RedisCodeManager.class
+com/framework/session/redis/RedisMobileSessionManager.class
+com/framework/session/redis/config/RedisConfig.class
+com/framework/session/redis/RedisWebSessionManager.class

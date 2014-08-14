@@ -1,0 +1,6 @@
+com/framework/spi/entity/CodeEntity.class
+com/framework/spi/entity/SessionEntity.class
+com/framework/spi/provider/SessionManager.class
+com/framework/spi/provider/WebSessionManager.class
+com/framework/spi/provider/CodeManager.class
+com/framework/spi/provider/KeysManager.class

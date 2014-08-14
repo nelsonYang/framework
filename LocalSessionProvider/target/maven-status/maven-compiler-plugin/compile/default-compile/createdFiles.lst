@@ -1,0 +1,4 @@
+com/framework/session/local/LocalMobileSessionManager.class
+com/framework/session/local/code/LocalCodeManager.class
+com/framework/session/local/LocalWebSessionManager.class
+com/framework/session/local/key/LocalKeysManager.class

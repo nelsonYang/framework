@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dbServers>
+    <dbServer name="server1" type="jndi">
+        <property name="jndiName">jdbc/duomeng</property>
+    </dbServer>
+</dbServers>

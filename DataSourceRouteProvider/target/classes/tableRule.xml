@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tableRules>
+    <tableRule name="product,eventQualification,exchangeFlow,address,event,drawAccountFlow,userLocation,productImage,bulletin,rewardFlow,account,user,payConfig,feedback,version,manager,award" database="appTreasure" defaultPools="server1">
+        
+        <rule name="rule1">
+            <parameters>userId</parameters>
+            <type>RANGE</type>
+            <minValue>0</minValue>
+            <maxValue>1000000</maxValue>
+            <defaultPools>server1</defaultPools>
+        </rule>
+    </tableRule>
+     <tableRule name="seq_user" database="appTreasure" defaultPools="server1">
+        
+        <rule name="rule1">
+            <parameters>userId</parameters>
+            <type>SEQ</type>
+            <defaultPools>server1</defaultPools>
+        </rule>
+    </tableRule>
+  
+
+</tableRules>
